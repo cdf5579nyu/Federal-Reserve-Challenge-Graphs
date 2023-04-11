@@ -1,5 +1,5 @@
 # fred
-fed challenge code for graphs
+Federal Reserve challenge, Fall 2023, New York University, code for graphs
 
 Final presentation video:
 
